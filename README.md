@@ -15,4 +15,4 @@ npm run dev
 
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
-(https://j8w42i-3000.preview.csb.app/)
+(https://xlbup5.sse.codesandbox.io/)
